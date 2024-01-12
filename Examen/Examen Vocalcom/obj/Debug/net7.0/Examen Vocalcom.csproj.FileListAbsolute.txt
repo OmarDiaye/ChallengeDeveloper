@@ -1,0 +1,14 @@
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\bin\Debug\net7.0\Examen Vocalcom.exe
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\bin\Debug\net7.0\Examen Vocalcom.deps.json
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\bin\Debug\net7.0\Examen Vocalcom.runtimeconfig.json
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\bin\Debug\net7.0\Examen Vocalcom.dll
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\bin\Debug\net7.0\Examen Vocalcom.pdb
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\obj\Debug\net7.0\Examen Vocalcom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\obj\Debug\net7.0\Examen Vocalcom.AssemblyInfoInputs.cache
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\obj\Debug\net7.0\Examen Vocalcom.AssemblyInfo.cs
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\obj\Debug\net7.0\Examen Vocalcom.csproj.CoreCompileInputs.cache
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\obj\Debug\net7.0\Examen Vocalcom.dll
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\obj\Debug\net7.0\refint\Examen Vocalcom.dll
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\obj\Debug\net7.0\Examen Vocalcom.pdb
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\obj\Debug\net7.0\Examen Vocalcom.genruntimeconfig.cache
+C:\Users\HOGAR\Desktop\Examen\Examen Vocalcom\obj\Debug\net7.0\ref\Examen Vocalcom.dll
